@@ -77,17 +77,3 @@ Meu nome é Caio Picciarelli, tenho 18 anos e sou de São Paulo capital. Fiz meu
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img 
-    height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Caiopicciarelli2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
-  
-  <img 
-    height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caiopicciarelli2&theme=tokyonight&layout=compact&langs_count=9" 
-  />
-</p>
