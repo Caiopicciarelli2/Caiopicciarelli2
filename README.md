@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-end Junior`**
 
 
-Meu nome é Caio Picciarelli, tenho 17 anos e sou de São Paulo capital. Fiz meu ensino médio na Etec Parque da juventude, com curso técnico em Desenvolvimento de Sistemas. Tenho o objetivo de cursar Engenharia de Software ou Ciência da Computação na SPTECH ou FIAP por meio dos vestibulares.
+Meu nome é Caio Picciarelli, tenho 18 anos e sou de São Paulo capital. Fiz meu ensino médio na Etec Parque da juventude, com curso técnico em Desenvolvimento de Sistemas. Atualmente estou fazendo meu 1 ano de bacharelado no curso Ciência da Computação na SPTECH - São Paulo Tech School
 
 <p align="left">
     <a href="https://www.instagram.com/caiopicciarelli">
