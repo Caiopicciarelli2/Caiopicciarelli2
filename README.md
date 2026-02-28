@@ -24,7 +24,7 @@ Meu nome é Caio Picciarelli, tenho 18 anos e sou de São Paulo capital. Fiz meu
         <img 
             alt="GitHub pessoal" 
             title="GitHub pessoal" 
-            src="https://fontawesome.com/icons/github?f=brands&s=solid"
+            src="https://custom-icon-badges.demolab.com/badge/GitHub-000000?color=%23000000&logo=github&logoColor=ffffff&style=for-the-badge&labelColor=000000"
         />
     </a> 
 </p>
