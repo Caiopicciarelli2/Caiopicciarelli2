@@ -20,6 +20,13 @@ Meu nome é Caio Picciarelli, tenho 18 anos e sou de São Paulo capital. Fiz meu
             src="https://custom-icon-badges.demolab.com/badge/Email-ffffff?color=%23ffffff&logo=gmail&logoColor=000000&style=for-the-badge&labelColor=ffffff"
         />
     </a> 
+    <a href="https://github.com/Caiopicciarelli/Caiopicciarelli/">
+        <img 
+            alt="GitHub pessoal" 
+            title="GitHub pessoal" 
+            src="https://custom-icon-badges.demolab.com/badge/GitHub-ffffff?color=%23000000&logo=github&logoColor=ffffff&style=for-the-badge&labelColor=ffffff"
+        />
+    </a> 
 </p>
 
 ---
