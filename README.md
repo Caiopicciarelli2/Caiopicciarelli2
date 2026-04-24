@@ -29,7 +29,7 @@ My name is Caio Picciarelli, I am 18 years old and I am from São Paulo city. I 
 
 ---
 
-### Linguagens e Tecnologias
+### Languages ​​and Technologies
 
 <img 
     align="left" 
