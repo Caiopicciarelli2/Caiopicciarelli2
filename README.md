@@ -1,9 +1,7 @@
 ## Caiopicciarelli
 
-**`Desenvolvedor Front-end Junior`**
 
-
-Meu nome é Caio Picciarelli, tenho 18 anos e sou de São Paulo capital. Fiz meu ensino médio na Etec Parque da juventude, com curso técnico em Desenvolvimento de Sistemas. Atualmente estou fazendo meu 1 ano de bacharelado no curso Ciência da Computação na SPTECH - São Paulo Tech School
+My name is Caio Picciarelli, I am 18 years old and I am from São Paulo city. I completed my high school education at Etec Parque da Juventude, with a technical course in Systems Development. Currently, I am in my first year of a bachelor's degree in Computer Science at SPTECH - São Paulo Tech School.
 
 <p align="left">
     <a href="https://www.instagram.com/caiopicciarelli">
